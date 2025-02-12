@@ -15,7 +15,7 @@
       "locale_id": 1,
       "locale": "en-US",
       "organization_id": 361394987192,
-      "role": "agent",
+      "role": "agent with a long name to error",
       "verified": true,
       "external_id": null,
       "tags": [],
