@@ -1,0 +1,95 @@
+{
+    "groups": [
+		{
+			"url": "https://company.zendesk.com/api/v2/groups/21270.json",
+			"id": 25597,
+			"is_public": false,
+			"name": "Cedric",
+			"description": "rca ieee encouraged brad control",
+			"default": true,
+			"deleted": true,
+			"created_at": "1993-05-08T08:47:30.381Z",
+			"updated_at": "2016-08-02T03:33:24.820Z"
+		},
+		{
+			"url": "https://company.zendesk.com/api/v2/groups/39618.json",
+			"id": 16961,
+			"is_public": false,
+			"name": "Leanne",
+			"description": "source sim technologies iran placed",
+			"default": false,
+			"deleted": true,
+			"created_at": "1975-07-21T11:17:07.460Z",
+			"updated_at": "2011-03-05T02:01:59.418Z"
+		},
+		{
+			"url": "https://company.zendesk.com/api/v2/groups/35196.json",
+			"id": 28466,
+			"is_public": true,
+			"name": "Anabel",
+			"description": "taught diffs roulette relaxation speech",
+			"default": false,
+			"deleted": true,
+			"created_at": "2013-08-08T22:10:46.759Z",
+			"updated_at": "1984-01-09T17:15:42.697Z"
+		},
+		{
+			"url": "https://company.zendesk.com/api/v2/groups/32105.json",
+			"id": 27469,
+			"is_public": false,
+			"name": "Antonio",
+			"description": "widely malawi amanda logitech removal",
+			"default": false,
+			"deleted": false,
+			"created_at": "2007-12-16T15:43:28.605Z",
+			"updated_at": "1974-09-09T01:34:10.856Z"
+		},
+		{
+			"url": "https://company.zendesk.com/api/v2/groups/57418.json",
+			"id": 53021,
+			"is_public": false,
+			"name": "Rudolf",
+			"description": "considered subjective court button ou",
+			"default": true,
+			"deleted": false,
+			"created_at": "1993-02-02T21:41:40.995Z",
+			"updated_at": "2008-02-20T14:07:32.184Z"
+		},
+		{
+			"url": "https://company.zendesk.com/api/v2/groups/19921.json",
+			"id": 69235,
+			"is_public": false,
+			"name": "Signe",
+			"description": "archives ken circus revisions user",
+			"default": true,
+			"deleted": false,
+			"created_at": "2021-11-11T10:59:48.229Z",
+			"updated_at": "1998-08-29T20:14:21.680Z"
+		},
+		{
+			"url": "https://company.zendesk.com/api/v2/groups/51141.json",
+			"id": 48666,
+			"is_public": true,
+			"name": "Gabriella",
+			"description": "rise warned relying jacket tribe",
+			"default": false,
+			"deleted": false,
+			"created_at": "1986-04-19T08:07:51.640Z",
+			"updated_at": "2013-05-20T08:32:11.303Z"
+		},
+		{
+			"url": "https://company.zendesk.com/api/v2/groups/45186.json",
+			"id": 19184,
+			"is_public": true,
+			"name": "Dorcas",
+			"description": "born visibility abs log requirement",
+			"default": false,
+			"deleted": true,
+			"created_at": "2010-08-22T20:57:20.448Z",
+			"updated_at": "1987-05-29T16:18:25.224Z"
+		}
+	],
+    "next_page": null,
+    "previous_page": "https://raw.githubusercontent.com/AnonDevLead/json/refs/heads/main/groups1.json",
+    "count": 208
+}
