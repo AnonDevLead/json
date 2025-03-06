@@ -1,0 +1,144 @@
+{
+    "ticket_fields": [{
+	"url": "https://company.zendesk.com/api/v2/ticket_fields/1486927997649.json",
+	"id": 8220707590744,
+	"type": "status",
+	"title": "Status",
+	"raw_title": "Status",
+	"description": "Request status",
+	"raw_description": "Request status",
+	"position": 7010,
+	"active": true,
+	"required": true,
+	"collapsed_for_agents": true,
+	"regexp_for_validation": null,
+	"title_in_portal": "Status",
+	"raw_title_in_portal": "Status",
+	"visible_in_portal": true,
+	"editable_in_portal": false,
+	"required_in_portal": true,
+	"tag": null,
+	"created_at": "1970-12-27T11:13:39.534Z",
+	"updated_at": "2015-10-24T08:05:09.432Z",
+	"removable": true,
+	"key": null,
+	"agent_description": null,
+	"system_field_options": [
+		{
+			"name": "Open",
+			"value": "open"
+		},
+		{
+			"name": "Pending",
+			"value": "pending"
+		},
+		{
+			"name": "On-hold",
+			"value": "hold"
+		},
+		{
+			"name": "Solved",
+			"value": "solved"
+		}
+	],
+	"sub_type_id": 1
+},
+{
+	"url": "https://company.zendesk.com/api/v2/ticket_fields/9931442191526.json",
+	"id": 4705445927692,
+	"type": "tagger",
+	"title": "Sub Category - Services/Process (CRF)",
+	"raw_title": "Sub Category - Services/Process (CRF)",
+	"description": "",
+	"raw_description": "",
+	"position": 8800,
+	"active": false,
+	"required": false,
+	"collapsed_for_agents": true,
+	"regexp_for_validation": null,
+	"title_in_portal": "Request Detail",
+	"raw_title_in_portal": "Request Detail",
+	"visible_in_portal": true,
+	"editable_in_portal": true,
+	"required_in_portal": true,
+	"tag": null,
+	"created_at": "2019-01-10T12:30:04.981Z",
+	"updated_at": "2002-03-14T14:16:39.281Z",
+	"removable": false,
+	"key": null,
+	"agent_description": null,
+	"custom_field_options": [
+		{
+			"id": 7138311231659,
+			"name": "Modify existing service/process",
+			"raw_name": "Modify existing service/process",
+			"value": "modify_existing_service/process",
+			"default": true
+		},
+		{
+			"id": 3055136791929,
+			"name": "New Request",
+			"raw_name": "New Request",
+			"value": "new_request_service/process",
+			"default": true
+		}
+	]
+},
+{
+	"url": "https://company.zendesk.com/api/v2/ticket_fields/2072909135715.json",
+	"id": 4381629275628,
+	"type": "custom_status",
+	"title": "Ticket status",
+	"raw_title": "Ticket status",
+	"description": "Request ticket status",
+	"raw_description": "Request ticket status",
+	"position": 6437,
+	"active": true,
+	"required": true,
+	"collapsed_for_agents": true,
+	"regexp_for_validation": null,
+	"title_in_portal": "Ticket status",
+	"raw_title_in_portal": "Ticket status",
+	"visible_in_portal": false,
+	"editable_in_portal": false,
+	"required_in_portal": true,
+	"tag": null,
+	"created_at": "2013-06-07T06:24:46.634Z",
+	"updated_at": "1984-12-25T22:20:54.535Z",
+	"removable": false,
+	"key": null,
+	"agent_description": null,
+	"custom_statuses": [
+		{
+			"url": "https://company.zendesk.com/api/v2/custom_statuses/5702847.json",
+			"id": 9706313,
+			"status_category": "new",
+			"agent_label": "New",
+			"end_user_label": "Open",
+			"description": "pretty nr beyond diploma mirrors norfolk attorney inserted sen hl",
+			"end_user_description": "adapters enclosure permalink permits proceeds projector l packs traveller yo",
+			"active": true,
+			"default": false,
+			"created_at": "2024-05-28T12:11:46.992Z",
+			"updated_at": "1990-05-15T07:39:38.273Z"
+		},
+		{
+			"url": "https://company.zendesk.com/api/v2/custom_statuses/2350024.json",
+			"id": 6692439,
+			"status_category": "open",
+			"agent_label": "Open",
+			"end_user_label": "Open",
+			"description": "practice remarks against automated launch fitness attempting aurora jesse contacts",
+			"end_user_description": "twin science valuation readers sponsors obtain judy submitting wrist volumes",
+			"active": true,
+			"default": true,
+			"created_at": "1987-01-28T00:49:10.771Z",
+			"updated_at": "1974-04-16T17:31:29.867Z"
+		}
+	]
+}
+],
+"next_page": null,
+"previous_page": "https://raw.githubusercontent.com/AnonDevLead/json/refs/heads/main/ticketFields0.json",
+"count": 231
+}
