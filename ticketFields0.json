@@ -1,0 +1,188 @@
+{
+    "ticket_fields": [
+        {
+            "url": "https://company.zendesk.com/api/v2/ticket_fields/1419424396364.json",
+            "id": 4814019533497,
+            "type": "status",
+            "title": "Status",
+            "raw_title": "Status",
+            "description": "Request status",
+            "raw_description": "Request status",
+            "position": 8494,
+            "active": false,
+            "required": false,
+            "collapsed_for_agents": true,
+            "regexp_for_validation": null,
+            "title_in_portal": "Status",
+            "raw_title_in_portal": "Status",
+            "visible_in_portal": false,
+            "editable_in_portal": false,
+            "required_in_portal": true,
+            "tag": null,
+            "created_at": "2019-01-05T16:01:35.819Z",
+            "updated_at": "2024-04-18T14:51:55.222Z",
+            "removable": false,
+            "key": null,
+            "agent_description": null,
+            "system_field_options": [
+                {
+                    "name": "Open",
+                    "value": "open"
+                },
+                {
+                    "name": "Pending",
+                    "value": "pending"
+                },
+                {
+                    "name": "On-hold",
+                    "value": "hold"
+                },
+                {
+                    "name": "Solved",
+                    "value": "solved"
+                }
+            ],
+            "sub_type_id": 1
+        },
+        {
+            "url": "https://company.zendesk.com/api/v2/ticket_fields/5417865720832.json",
+            "id": 9157504025310,
+            "type": "status",
+            "title": "Status",
+            "raw_title": "Status",
+            "description": "Request status",
+            "raw_description": "Request status",
+            "position": 7594,
+            "active": false,
+            "required": true,
+            "collapsed_for_agents": false,
+            "regexp_for_validation": null,
+            "title_in_portal": "Status",
+            "raw_title_in_portal": "Status",
+            "visible_in_portal": true,
+            "editable_in_portal": false,
+            "required_in_portal": true,
+            "tag": null,
+            "created_at": "2011-01-24T15:31:51.704Z",
+            "updated_at": "1982-05-19T04:24:25.211Z",
+            "removable": true,
+            "key": null,
+            "agent_description": null,
+            "system_field_options": [
+                {
+                    "name": "Open",
+                    "value": "open"
+                },
+                {
+                    "name": "Pending",
+                    "value": "pending"
+                },
+                {
+                    "name": "On-hold",
+                    "value": "hold"
+                },
+                {
+                    "name": "Solved",
+                    "value": "solved"
+                }
+            ],
+            "sub_type_id": 1
+        },{
+            "url": "https://company.zendesk.com/api/v2/ticket_fields/1677584531186.json",
+            "id": 5024729281880,
+            "type": "tagger",
+            "title": "Sub Category - Services/Process (CRF)",
+            "raw_title": "Sub Category - Services/Process (CRF)",
+            "description": "",
+            "raw_description": "",
+            "position": 4485,
+            "active": true,
+            "required": true,
+            "collapsed_for_agents": true,
+            "regexp_for_validation": null,
+            "title_in_portal": "Request Detail",
+            "raw_title_in_portal": "Request Detail",
+            "visible_in_portal": true,
+            "editable_in_portal": false,
+            "required_in_portal": false,
+            "tag": null,
+            "created_at": "2010-04-26T10:52:11.107Z",
+            "updated_at": "1982-10-21T07:19:49.215Z",
+            "removable": true,
+            "key": null,
+            "agent_description": null,
+            "custom_field_options": [
+                {
+                    "id": 2486130274971,
+                    "name": "Modify existing service/process",
+                    "raw_name": "Modify existing service/process",
+                    "value": "modify_existing_service/process",
+                    "default": true
+                },
+                {
+                    "id": 4192258277627,
+                    "name": "New Request",
+                    "raw_name": "New Request",
+                    "value": "new_request_service/process",
+                    "default": false
+                }
+            ]
+        },
+        {
+            "url": "https://company.zendesk.com/api/v2/ticket_fields/5234818219419.json",
+            "id": 9549264749946,
+            "type": "custom_status",
+            "title": "Ticket status",
+            "raw_title": "Ticket status",
+            "description": "Request ticket status",
+            "raw_description": "Request ticket status",
+            "position": 8492,
+            "active": true,
+            "required": true,
+            "collapsed_for_agents": true,
+            "regexp_for_validation": null,
+            "title_in_portal": "Ticket status",
+            "raw_title_in_portal": "Ticket status",
+            "visible_in_portal": false,
+            "editable_in_portal": false,
+            "required_in_portal": false,
+            "tag": null,
+            "created_at": "2023-12-05T17:57:43.220Z",
+            "updated_at": "1987-12-28T04:57:59.335Z",
+            "removable": true,
+            "key": null,
+            "agent_description": null,
+            "custom_statuses": [
+                {
+                    "url": "https://company.zendesk.com/api/v2/custom_statuses/9365083.json",
+                    "id": 8490749,
+                    "status_category": "new",
+                    "agent_label": "New",
+                    "end_user_label": "Open",
+                    "description": "seminars queen biggest green ln fuzzy isbn leave realtor deviation",
+                    "end_user_description": "bunny warcraft try minneapolis prices distinct percent vendors amendments pest",
+                    "active": false,
+                    "default": true,
+                    "created_at": "2015-12-03T22:34:43.948Z",
+                    "updated_at": "2009-02-11T13:46:40.403Z"
+                },
+                {
+                    "url": "https://company.zendesk.com/api/v2/custom_statuses/1427449.json",
+                    "id": 6724057,
+                    "status_category": "open",
+                    "agent_label": "Open",
+                    "end_user_label": "Open",
+                    "description": "designation locally indianapolis alpha semiconductor quickly lecture quebec convenient tear",
+                    "end_user_description": "lesbian warehouse teaching thank boolean months gay different mode layers",
+                    "active": true,
+                    "default": true,
+                    "created_at": "2009-10-19T19:02:35.759Z",
+                    "updated_at": "1994-02-12T19:38:05.719Z"
+                }
+            ]
+        }
+    ],
+    "next_page": "https://raw.githubusercontent.com/AnonDevLead/json/refs/heads/main/ticketFields1.json",
+    "previous_page": null,
+    "count": 231
+}
