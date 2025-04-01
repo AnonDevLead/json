@@ -1,0 +1,1471 @@
+[
+    {
+        "ticket_metrics": [
+            {
+                "url": "https://julianne.com",
+                "id": 1,
+                "ticket_id": 186,
+                "created_at": "2024-09-10T22:16:17.691Z",
+                "updated_at": "2025-01-04T13:04:42.475Z",
+                "group_stations": 39,
+                "assignee_stations": 29,
+                "reopens": 69,
+                "replies": 50,
+                "assignee_updated_at": "2025-03-16T04:56:12.694Z",
+                "requester_updated_at": "2024-04-24T02:56:57.817Z",
+                "status_updated_at": "2025-03-12T10:11:10.078Z",
+                "initially_assigned_at": "2024-10-01T22:30:47.124Z",
+                "assigned_at": "2024-07-23T04:31:47.531Z",
+                "solved_at": "2024-06-25T19:58:17.652Z",
+                "latest_comment_added_at": "2024-07-31T15:10:38.958Z",
+                "reply_time_in_minutes": {
+                    "calendar": 7,
+                    "business": 58
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 95,
+                    "business": 56
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 46,
+                    "business": 7
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 82,
+                    "business": null
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 86,
+                    "business": 93
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 20,
+                    "business": 0
+                },
+                "custom_status_updated_at": "2024-07-16T13:36:04.109Z"
+            },
+            {
+                "url": "https://imogene.net",
+                "id": 2,
+                "ticket_id": 125,
+                "created_at": "2024-08-06T15:53:13.240Z",
+                "updated_at": "2024-08-19T15:31:18.546Z",
+                "group_stations": 23,
+                "assignee_stations": 85,
+                "reopens": 53,
+                "replies": 13,
+                "assignee_updated_at": "2024-10-12T01:37:21.782Z",
+                "requester_updated_at": "2025-02-18T03:15:19.033Z",
+                "status_updated_at": "2024-07-29T11:20:11.632Z",
+                "initially_assigned_at": "2024-11-08T07:10:53.765Z",
+                "assigned_at": "2024-07-13T05:07:22.045Z",
+                "solved_at": "2024-10-18T13:19:44.791Z",
+                "latest_comment_added_at": "2024-12-23T02:02:53.951Z",
+                "reply_time_in_minutes": {
+                    "calendar": 24,
+                    "business": 29
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 88,
+                    "business": null
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 56,
+                    "business": 3
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 70,
+                    "business": 92
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 1,
+                    "business": 85
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 89,
+                    "business": 5
+                },
+                "custom_status_updated_at": "2025-02-19T08:14:08.273Z"
+            },
+            {
+                "url": "http://mabelle.net",
+                "id": 3,
+                "ticket_id": 135,
+                "created_at": "2024-11-04T13:53:11.034Z",
+                "updated_at": "2025-02-12T22:00:07.905Z",
+                "group_stations": 25,
+                "assignee_stations": 37,
+                "reopens": 42,
+                "replies": 43,
+                "assignee_updated_at": "2024-03-26T13:57:59.366Z",
+                "requester_updated_at": "2024-08-30T09:31:20.652Z",
+                "status_updated_at": "2024-12-15T09:58:07.365Z",
+                "initially_assigned_at": "2024-05-05T02:10:24.009Z",
+                "assigned_at": "2024-11-25T13:09:57.510Z",
+                "solved_at": "2024-04-19T08:17:09.150Z",
+                "latest_comment_added_at": "2025-01-04T19:33:08.727Z",
+                "reply_time_in_minutes": {
+                    "calendar": 89,
+                    "business": 83
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 29,
+                    "business": 20
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 51,
+                    "business": 82
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 61,
+                    "business": 27
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 59,
+                    "business": 92
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 8,
+                    "business": 33
+                },
+                "custom_status_updated_at": "2025-02-11T11:38:20.260Z"
+            },
+            {
+                "url": "https://corbin.name",
+                "id": 4,
+                "ticket_id": 166,
+                "created_at": "2024-12-30T18:31:16.835Z",
+                "updated_at": "2024-08-01T07:24:09.879Z",
+                "group_stations": 24,
+                "assignee_stations": 86,
+                "reopens": 68,
+                "replies": 76,
+                "assignee_updated_at": "2024-10-24T22:57:05.411Z",
+                "requester_updated_at": "2024-12-02T11:16:15.876Z",
+                "status_updated_at": "2024-08-22T10:11:05.040Z",
+                "initially_assigned_at": "2024-06-11T08:13:28.082Z",
+                "assigned_at": "2024-09-09T08:45:30.740Z",
+                "solved_at": "2024-11-14T16:47:54.474Z",
+                "latest_comment_added_at": "2024-10-03T22:55:20.291Z",
+                "reply_time_in_minutes": {
+                    "calendar": 75,
+                    "business": null
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 53,
+                    "business": 72
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 47,
+                    "business": null
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 89,
+                    "business": 59
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": null,
+                    "business": 51
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 76,
+                    "business": 26
+                },
+                "custom_status_updated_at": "2024-07-11T09:20:56.499Z"
+            },
+            {
+                "url": "https://justina.biz",
+                "id": 5,
+                "ticket_id": 168,
+                "created_at": "2024-05-18T13:00:09.026Z",
+                "updated_at": "2024-10-27T16:08:10.537Z",
+                "group_stations": 71,
+                "assignee_stations": 34,
+                "reopens": 28,
+                "replies": 34,
+                "assignee_updated_at": "2024-09-02T12:15:57.410Z",
+                "requester_updated_at": "2024-04-22T15:17:25.066Z",
+                "status_updated_at": "2025-03-17T05:47:41.602Z",
+                "initially_assigned_at": "2024-08-13T12:18:04.446Z",
+                "assigned_at": "2024-08-14T08:54:21.903Z",
+                "solved_at": "2024-09-04T01:25:23.135Z",
+                "latest_comment_added_at": "2024-07-27T17:44:33.454Z",
+                "reply_time_in_minutes": {
+                    "calendar": 5,
+                    "business": 46
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 64,
+                    "business": 55
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 8,
+                    "business": 41
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 59,
+                    "business": 80
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 24,
+                    "business": 51
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 33,
+                    "business": 35
+                },
+                "custom_status_updated_at": "2024-03-28T20:33:11.617Z"
+            },
+            {
+                "url": "http://tobin.name",
+                "id": 6,
+                "ticket_id": 153,
+                "created_at": "2024-08-28T21:56:03.078Z",
+                "updated_at": "2024-10-04T08:13:00.397Z",
+                "group_stations": 61,
+                "assignee_stations": 45,
+                "reopens": 41,
+                "replies": 2,
+                "assignee_updated_at": "2025-01-21T06:31:03.646Z",
+                "requester_updated_at": "2024-07-09T14:00:42.585Z",
+                "status_updated_at": "2025-02-03T08:32:26.669Z",
+                "initially_assigned_at": "2024-11-29T19:17:36.663Z",
+                "assigned_at": "2024-09-05T17:55:05.613Z",
+                "solved_at": "2024-11-13T02:25:33.412Z",
+                "latest_comment_added_at": "2024-04-25T18:25:25.942Z",
+                "reply_time_in_minutes": {
+                    "calendar": 84,
+                    "business": 5
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 28,
+                    "business": 36
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 43,
+                    "business": 70
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 14,
+                    "business": 90
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 17,
+                    "business": null
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 99,
+                    "business": 51
+                },
+                "custom_status_updated_at": "2025-03-03T01:19:49.247Z"
+            },
+            {
+                "url": "http://cali.name",
+                "id": 7,
+                "ticket_id": 175,
+                "created_at": "2025-01-29T11:53:59.241Z",
+                "updated_at": "2024-06-19T00:37:54.182Z",
+                "group_stations": 58,
+                "assignee_stations": 36,
+                "reopens": 59,
+                "replies": 4,
+                "assignee_updated_at": "2024-06-07T10:25:26.378Z",
+                "requester_updated_at": "2024-12-06T01:30:02.184Z",
+                "status_updated_at": "2024-10-27T20:51:05.969Z",
+                "initially_assigned_at": "2024-04-23T04:49:25.004Z",
+                "assigned_at": "2024-11-19T03:00:16.333Z",
+                "solved_at": "2024-12-08T10:56:54.843Z",
+                "latest_comment_added_at": "2024-06-09T10:32:51.328Z",
+                "reply_time_in_minutes": {
+                    "calendar": 27,
+                    "business": 1
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 98,
+                    "business": 82
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": null,
+                    "business": 88
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 15,
+                    "business": 91
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 51,
+                    "business": 46
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": null,
+                    "business": 63
+                },
+                "custom_status_updated_at": "2025-03-02T23:18:06.659Z"
+            },
+            {
+                "url": "https://ben.org",
+                "id": 8,
+                "ticket_id": 158,
+                "created_at": "2024-03-26T15:29:09.126Z",
+                "updated_at": "2024-09-17T22:03:00.556Z",
+                "group_stations": 91,
+                "assignee_stations": 37,
+                "reopens": 16,
+                "replies": 86,
+                "assignee_updated_at": "2024-04-02T15:46:11.148Z",
+                "requester_updated_at": "2024-04-15T14:28:47.854Z",
+                "status_updated_at": "2024-11-09T05:34:43.743Z",
+                "initially_assigned_at": "2024-06-26T06:07:28.571Z",
+                "assigned_at": "2024-10-24T08:18:27.788Z",
+                "solved_at": "2025-01-27T22:54:46.978Z",
+                "latest_comment_added_at": "2024-09-01T14:39:47.760Z",
+                "reply_time_in_minutes": {
+                    "calendar": 5,
+                    "business": 21
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 82,
+                    "business": 31
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 92,
+                    "business": 87
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 41,
+                    "business": 58
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 7,
+                    "business": 57
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 17,
+                    "business": null
+                },
+                "custom_status_updated_at": "2024-04-03T14:18:49.769Z"
+            },
+            {
+                "url": "https://malinda.info",
+                "id": 9,
+                "ticket_id": 187,
+                "created_at": "2025-03-06T10:29:20.992Z",
+                "updated_at": "2024-07-28T19:47:18.694Z",
+                "group_stations": 92,
+                "assignee_stations": 54,
+                "reopens": 36,
+                "replies": 50,
+                "assignee_updated_at": "2025-03-04T05:46:14.815Z",
+                "requester_updated_at": "2024-11-28T08:04:55.727Z",
+                "status_updated_at": "2024-11-10T11:49:34.375Z",
+                "initially_assigned_at": "2024-07-23T01:39:23.332Z",
+                "assigned_at": "2025-01-21T09:50:31.389Z",
+                "solved_at": "2025-01-07T14:46:47.115Z",
+                "latest_comment_added_at": "2024-07-12T20:41:38.010Z",
+                "reply_time_in_minutes": {
+                    "calendar": 25,
+                    "business": 14
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 98,
+                    "business": 2
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 42,
+                    "business": 8
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": null,
+                    "business": 79
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 37,
+                    "business": 69
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 84,
+                    "business": 20
+                },
+                "custom_status_updated_at": "2024-10-27T09:21:42.726Z"
+            },
+            {
+                "url": "https://myrtie.name",
+                "id": 10,
+                "ticket_id": 187,
+                "created_at": "2025-03-08T06:45:48.353Z",
+                "updated_at": "2024-12-02T04:45:46.029Z",
+                "group_stations": 23,
+                "assignee_stations": 3,
+                "reopens": 65,
+                "replies": 27,
+                "assignee_updated_at": "2024-12-15T19:21:02.238Z",
+                "requester_updated_at": "2025-03-24T19:27:38.582Z",
+                "status_updated_at": "2024-12-03T00:13:25.924Z",
+                "initially_assigned_at": "2024-12-13T08:36:16.360Z",
+                "assigned_at": "2025-02-03T16:48:38.624Z",
+                "solved_at": "2024-09-20T21:23:49.190Z",
+                "latest_comment_added_at": "2024-11-03T05:58:03.682Z",
+                "reply_time_in_minutes": {
+                    "calendar": 69,
+                    "business": 67
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 40,
+                    "business": 36
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 18,
+                    "business": 39
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 7,
+                    "business": 24
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 2,
+                    "business": 25
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 99,
+                    "business": null
+                },
+                "custom_status_updated_at": "2024-05-19T16:56:21.588Z"
+            },
+            {
+                "url": "https://mariam.org",
+                "id": 11,
+                "ticket_id": 157,
+                "created_at": "2024-05-24T04:03:01.786Z",
+                "updated_at": "2024-12-25T17:41:17.096Z",
+                "group_stations": 39,
+                "assignee_stations": 45,
+                "reopens": 89,
+                "replies": 99,
+                "assignee_updated_at": "2024-08-24T17:43:19.082Z",
+                "requester_updated_at": "2024-10-13T13:57:59.058Z",
+                "status_updated_at": "2024-05-24T18:02:52.023Z",
+                "initially_assigned_at": "2024-09-14T14:01:39.678Z",
+                "assigned_at": "2024-04-14T01:49:09.705Z",
+                "solved_at": "2024-04-15T09:20:44.013Z",
+                "latest_comment_added_at": "2024-12-20T10:41:49.587Z",
+                "reply_time_in_minutes": {
+                    "calendar": 1,
+                    "business": 89
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 75,
+                    "business": 76
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 96,
+                    "business": 86
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 74,
+                    "business": 25
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 69,
+                    "business": 4
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 32,
+                    "business": 36
+                },
+                "custom_status_updated_at": "2025-01-01T03:23:33.723Z"
+            },
+            {
+                "url": "https://marcelle.biz",
+                "id": 12,
+                "ticket_id": 152,
+                "created_at": "2025-03-03T22:12:19.226Z",
+                "updated_at": "2024-07-18T01:38:07.524Z",
+                "group_stations": 21,
+                "assignee_stations": 11,
+                "reopens": 79,
+                "replies": 8,
+                "assignee_updated_at": "2024-09-05T00:17:04.268Z",
+                "requester_updated_at": "2025-03-13T19:15:30.607Z",
+                "status_updated_at": "2024-12-11T14:15:05.909Z",
+                "initially_assigned_at": "2024-05-05T06:53:45.228Z",
+                "assigned_at": "2024-09-11T07:47:15.832Z",
+                "solved_at": "2024-11-16T18:11:17.439Z",
+                "latest_comment_added_at": "2024-08-14T00:41:31.049Z",
+                "reply_time_in_minutes": {
+                    "calendar": 28,
+                    "business": 94
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 5,
+                    "business": 0
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": null,
+                    "business": 63
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 0,
+                    "business": 99
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 83,
+                    "business": 49
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 53,
+                    "business": 52
+                },
+                "custom_status_updated_at": "2024-04-27T12:06:56.454Z"
+            },
+            {
+                "url": "https://daniella.biz",
+                "id": 13,
+                "ticket_id": 138,
+                "created_at": "2025-03-20T06:09:02.103Z",
+                "updated_at": "2024-08-23T11:32:48.294Z",
+                "group_stations": 20,
+                "assignee_stations": 34,
+                "reopens": 18,
+                "replies": 51,
+                "assignee_updated_at": "2024-04-25T02:33:48.038Z",
+                "requester_updated_at": "2024-11-03T01:44:23.093Z",
+                "status_updated_at": "2024-04-15T10:13:04.690Z",
+                "initially_assigned_at": "2024-07-28T04:40:54.574Z",
+                "assigned_at": "2024-07-31T06:39:09.919Z",
+                "solved_at": "2024-06-01T07:32:22.539Z",
+                "latest_comment_added_at": "2024-12-08T20:20:46.597Z",
+                "reply_time_in_minutes": {
+                    "calendar": 97,
+                    "business": 24
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 39,
+                    "business": 38
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": null,
+                    "business": 19
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 11,
+                    "business": 87
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 78,
+                    "business": 56
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": null,
+                    "business": 1
+                },
+                "custom_status_updated_at": "2024-10-12T11:23:52.595Z"
+            },
+            {
+                "url": "https://karlie.net",
+                "id": 14,
+                "ticket_id": 126,
+                "created_at": "2024-08-05T23:20:08.894Z",
+                "updated_at": "2024-04-16T06:11:00.646Z",
+                "group_stations": 38,
+                "assignee_stations": 13,
+                "reopens": 19,
+                "replies": 99,
+                "assignee_updated_at": "2024-12-01T01:19:00.660Z",
+                "requester_updated_at": "2024-05-04T02:02:19.366Z",
+                "status_updated_at": "2024-04-19T11:24:24.544Z",
+                "initially_assigned_at": "2025-03-22T23:00:52.879Z",
+                "assigned_at": "2024-11-23T17:18:44.234Z",
+                "solved_at": "2024-06-13T12:24:41.372Z",
+                "latest_comment_added_at": "2025-01-10T06:09:52.190Z",
+                "reply_time_in_minutes": {
+                    "calendar": 59,
+                    "business": 39
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 71,
+                    "business": null
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 84,
+                    "business": 28
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 56,
+                    "business": 20
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 52,
+                    "business": 74
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 68,
+                    "business": 46
+                },
+                "custom_status_updated_at": "2025-03-03T02:39:15.038Z"
+            },
+            {
+                "url": "https://cristopher.net",
+                "id": 15,
+                "ticket_id": 179,
+                "created_at": "2024-08-10T19:17:42.011Z",
+                "updated_at": "2024-03-28T14:13:34.756Z",
+                "group_stations": 33,
+                "assignee_stations": 37,
+                "reopens": 75,
+                "replies": 46,
+                "assignee_updated_at": "2024-11-10T08:40:58.513Z",
+                "requester_updated_at": "2025-02-13T15:16:13.169Z",
+                "status_updated_at": "2025-02-27T09:52:42.678Z",
+                "initially_assigned_at": "2024-07-16T23:18:11.970Z",
+                "assigned_at": "2024-07-10T18:48:12.431Z",
+                "solved_at": "2025-01-09T07:19:52.891Z",
+                "latest_comment_added_at": "2024-07-31T22:11:01.898Z",
+                "reply_time_in_minutes": {
+                    "calendar": 42,
+                    "business": 38
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 42,
+                    "business": 97
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 62,
+                    "business": 8
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 100,
+                    "business": 72
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 79,
+                    "business": 16
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 39,
+                    "business": 94
+                },
+                "custom_status_updated_at": "2024-04-28T19:26:35.500Z"
+            },
+            {
+                "url": "http://bonnie.net",
+                "id": 16,
+                "ticket_id": 181,
+                "created_at": "2024-06-07T03:12:17.512Z",
+                "updated_at": "2024-10-15T09:26:01.101Z",
+                "group_stations": 6,
+                "assignee_stations": 37,
+                "reopens": 65,
+                "replies": 48,
+                "assignee_updated_at": "2024-11-29T16:02:20.223Z",
+                "requester_updated_at": "2024-12-18T21:46:57.934Z",
+                "status_updated_at": "2025-02-14T06:34:09.202Z",
+                "initially_assigned_at": "2024-11-26T05:22:55.737Z",
+                "assigned_at": "2025-02-08T21:15:22.341Z",
+                "solved_at": "2024-06-12T15:37:32.781Z",
+                "latest_comment_added_at": "2024-12-06T19:11:59.436Z",
+                "reply_time_in_minutes": {
+                    "calendar": 75,
+                    "business": 73
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 56,
+                    "business": 24
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": null,
+                    "business": null
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 17,
+                    "business": 3
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 75,
+                    "business": 71
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 82,
+                    "business": 75
+                },
+                "custom_status_updated_at": "2024-07-22T01:25:38.512Z"
+            },
+            {
+                "url": "http://kristin.name",
+                "id": 17,
+                "ticket_id": 192,
+                "created_at": "2024-06-07T11:10:22.111Z",
+                "updated_at": "2024-06-21T18:54:42.373Z",
+                "group_stations": 76,
+                "assignee_stations": 46,
+                "reopens": 8,
+                "replies": 69,
+                "assignee_updated_at": "2024-08-02T04:59:00.257Z",
+                "requester_updated_at": "2024-05-19T08:19:19.901Z",
+                "status_updated_at": "2024-05-25T17:06:06.471Z",
+                "initially_assigned_at": "2024-06-08T18:51:59.048Z",
+                "assigned_at": "2024-12-12T12:22:59.568Z",
+                "solved_at": "2025-03-16T00:42:14.885Z",
+                "latest_comment_added_at": "2024-04-30T21:46:51.082Z",
+                "reply_time_in_minutes": {
+                    "calendar": 37,
+                    "business": 59
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 46,
+                    "business": 29
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 74,
+                    "business": 11
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 30,
+                    "business": 81
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": null,
+                    "business": 76
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 76,
+                    "business": 72
+                },
+                "custom_status_updated_at": "2024-10-31T09:40:03.798Z"
+            },
+            {
+                "url": "https://alvis.info",
+                "id": 18,
+                "ticket_id": 114,
+                "created_at": "2024-03-31T21:46:43.646Z",
+                "updated_at": "2024-07-10T15:52:58.702Z",
+                "group_stations": 75,
+                "assignee_stations": 49,
+                "reopens": 32,
+                "replies": 73,
+                "assignee_updated_at": "2024-09-03T12:32:39.151Z",
+                "requester_updated_at": "2024-07-10T06:11:40.651Z",
+                "status_updated_at": "2025-02-05T06:28:08.423Z",
+                "initially_assigned_at": "2024-12-15T11:35:20.014Z",
+                "assigned_at": "2024-12-02T20:41:34.363Z",
+                "solved_at": "2024-05-24T06:23:26.777Z",
+                "latest_comment_added_at": "2024-07-01T00:44:51.653Z",
+                "reply_time_in_minutes": {
+                    "calendar": 57,
+                    "business": 75
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 59,
+                    "business": 33
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 48,
+                    "business": 56
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 9,
+                    "business": null
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 91,
+                    "business": 2
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 72,
+                    "business": 2
+                },
+                "custom_status_updated_at": "2025-03-11T03:31:00.346Z"
+            },
+            {
+                "url": "https://vincenza.net",
+                "id": 19,
+                "ticket_id": 120,
+                "created_at": "2024-11-07T13:34:28.486Z",
+                "updated_at": "2024-07-18T08:18:42.744Z",
+                "group_stations": 82,
+                "assignee_stations": 15,
+                "reopens": 73,
+                "replies": 89,
+                "assignee_updated_at": "2025-02-17T13:13:47.456Z",
+                "requester_updated_at": "2024-03-30T20:03:51.514Z",
+                "status_updated_at": "2024-06-18T04:15:59.840Z",
+                "initially_assigned_at": "2024-11-25T05:56:29.891Z",
+                "assigned_at": "2024-05-10T10:28:13.450Z",
+                "solved_at": "2025-01-23T00:58:12.358Z",
+                "latest_comment_added_at": "2024-10-11T11:07:52.700Z",
+                "reply_time_in_minutes": {
+                    "calendar": 15,
+                    "business": 74
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 1,
+                    "business": 18
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 23,
+                    "business": 9
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 31,
+                    "business": 91
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 33,
+                    "business": 84
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 15,
+                    "business": 26
+                },
+                "custom_status_updated_at": "2025-01-01T15:00:21.496Z"
+            },
+            {
+                "url": "https://amaya.biz",
+                "id": 20,
+                "ticket_id": 151,
+                "created_at": "2024-07-28T18:32:56.169Z",
+                "updated_at": "2024-10-07T03:42:53.033Z",
+                "group_stations": 90,
+                "assignee_stations": 89,
+                "reopens": 63,
+                "replies": 45,
+                "assignee_updated_at": "2024-10-29T18:53:20.658Z",
+                "requester_updated_at": "2025-02-11T04:54:11.449Z",
+                "status_updated_at": "2024-07-28T11:21:24.519Z",
+                "initially_assigned_at": "2024-09-27T13:23:54.335Z",
+                "assigned_at": "2024-09-04T00:19:18.848Z",
+                "solved_at": "2025-03-20T20:47:58.440Z",
+                "latest_comment_added_at": "2024-04-16T19:49:42.803Z",
+                "reply_time_in_minutes": {
+                    "calendar": null,
+                    "business": 15
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 18,
+                    "business": 65
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 42,
+                    "business": 10
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 89,
+                    "business": 37
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 3,
+                    "business": 18
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 59,
+                    "business": 93
+                },
+                "custom_status_updated_at": "2024-08-24T08:47:35.773Z"
+            },
+            {
+                "url": "http://isabella.org",
+                "id": 21,
+                "ticket_id": 132,
+                "created_at": "2024-08-18T15:30:04.793Z",
+                "updated_at": "2024-12-19T08:20:13.349Z",
+                "group_stations": 63,
+                "assignee_stations": 13,
+                "reopens": 33,
+                "replies": 97,
+                "assignee_updated_at": "2025-01-20T13:41:04.987Z",
+                "requester_updated_at": "2024-10-27T18:03:53.389Z",
+                "status_updated_at": "2024-12-20T21:26:09.205Z",
+                "initially_assigned_at": "2025-03-17T17:29:23.098Z",
+                "assigned_at": "2025-01-09T03:03:31.104Z",
+                "solved_at": "2024-08-03T09:17:57.163Z",
+                "latest_comment_added_at": "2024-06-03T07:32:43.253Z",
+                "reply_time_in_minutes": {
+                    "calendar": 77,
+                    "business": 18
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 92,
+                    "business": 68
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": null,
+                    "business": 47
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 55,
+                    "business": 77
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 57,
+                    "business": 3
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 72,
+                    "business": 64
+                },
+                "custom_status_updated_at": "2025-02-06T09:14:30.515Z"
+            },
+            {
+                "url": "https://green.com",
+                "id": 22,
+                "ticket_id": 103,
+                "created_at": "2024-08-23T18:30:02.075Z",
+                "updated_at": "2024-10-29T13:30:53.472Z",
+                "group_stations": 28,
+                "assignee_stations": 32,
+                "reopens": 85,
+                "replies": 45,
+                "assignee_updated_at": "2024-04-04T09:37:06.574Z",
+                "requester_updated_at": "2025-01-24T09:23:24.644Z",
+                "status_updated_at": "2024-09-09T04:43:20.758Z",
+                "initially_assigned_at": "2024-04-04T02:05:14.031Z",
+                "assigned_at": "2024-11-22T10:58:23.888Z",
+                "solved_at": "2024-05-31T13:07:51.977Z",
+                "latest_comment_added_at": "2025-03-21T11:04:34.073Z",
+                "reply_time_in_minutes": {
+                    "calendar": 33,
+                    "business": 60
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 2,
+                    "business": 2
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 21,
+                    "business": 58
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 6,
+                    "business": 66
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 40,
+                    "business": 27
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 64,
+                    "business": 7
+                },
+                "custom_status_updated_at": "2024-04-16T04:55:18.762Z"
+            },
+            {
+                "url": "https://emanuel.net",
+                "id": 23,
+                "ticket_id": 150,
+                "created_at": "2025-01-24T09:36:36.399Z",
+                "updated_at": "2024-09-17T15:11:28.524Z",
+                "group_stations": 44,
+                "assignee_stations": 5,
+                "reopens": 71,
+                "replies": 65,
+                "assignee_updated_at": "2024-04-13T15:41:23.578Z",
+                "requester_updated_at": "2024-06-08T03:04:55.223Z",
+                "status_updated_at": "2024-07-13T16:29:43.878Z",
+                "initially_assigned_at": "2025-02-12T07:49:51.609Z",
+                "assigned_at": "2024-08-21T12:13:00.636Z",
+                "solved_at": "2024-06-12T05:22:30.070Z",
+                "latest_comment_added_at": "2024-05-30T12:48:41.109Z",
+                "reply_time_in_minutes": {
+                    "calendar": 8,
+                    "business": 41
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 81,
+                    "business": 4
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 46,
+                    "business": 32
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 95,
+                    "business": 63
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 89,
+                    "business": 82
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 98,
+                    "business": 48
+                },
+                "custom_status_updated_at": "2025-03-07T14:26:42.243Z"
+            },
+            {
+                "url": "https://mariane.com",
+                "id": 24,
+                "ticket_id": 131,
+                "created_at": "2025-01-12T05:54:25.862Z",
+                "updated_at": "2024-06-12T12:54:18.568Z",
+                "group_stations": 65,
+                "assignee_stations": 46,
+                "reopens": 49,
+                "replies": 81,
+                "assignee_updated_at": "2024-05-15T10:40:47.798Z",
+                "requester_updated_at": "2024-12-04T19:49:09.157Z",
+                "status_updated_at": "2024-07-17T01:16:06.376Z",
+                "initially_assigned_at": "2024-10-17T21:51:58.971Z",
+                "assigned_at": "2025-03-22T20:19:44.145Z",
+                "solved_at": "2024-06-16T05:46:24.495Z",
+                "latest_comment_added_at": "2024-09-25T14:32:18.309Z",
+                "reply_time_in_minutes": {
+                    "calendar": 89,
+                    "business": 87
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 47,
+                    "business": 39
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 64,
+                    "business": 16
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 39,
+                    "business": 12
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 87,
+                    "business": 40
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 36,
+                    "business": 50
+                },
+                "custom_status_updated_at": "2024-08-04T16:27:00.429Z"
+            },
+            {
+                "url": "http://julius.org",
+                "id": 25,
+                "ticket_id": 183,
+                "created_at": "2024-06-07T18:34:24.694Z",
+                "updated_at": "2025-01-29T06:52:03.932Z",
+                "group_stations": 88,
+                "assignee_stations": 22,
+                "reopens": 61,
+                "replies": 1,
+                "assignee_updated_at": "2025-01-08T05:40:49.969Z",
+                "requester_updated_at": "2024-09-23T12:09:44.130Z",
+                "status_updated_at": "2024-05-02T22:21:51.973Z",
+                "initially_assigned_at": "2024-12-02T04:10:52.435Z",
+                "assigned_at": "2024-12-24T10:13:22.789Z",
+                "solved_at": "2024-04-29T09:58:08.290Z",
+                "latest_comment_added_at": "2024-11-12T23:43:09.764Z",
+                "reply_time_in_minutes": {
+                    "calendar": 65,
+                    "business": 100
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": null,
+                    "business": 14
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 95,
+                    "business": 55
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 79,
+                    "business": 75
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 59,
+                    "business": 9
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": null,
+                    "business": 43
+                },
+                "custom_status_updated_at": "2024-07-17T00:30:32.036Z"
+            },
+            {
+                "url": "https://brant.net",
+                "id": 26,
+                "ticket_id": 155,
+                "created_at": "2025-02-03T20:42:28.381Z",
+                "updated_at": "2024-10-13T23:10:20.994Z",
+                "group_stations": 20,
+                "assignee_stations": 70,
+                "reopens": 81,
+                "replies": 23,
+                "assignee_updated_at": "2024-05-13T15:14:52.914Z",
+                "requester_updated_at": "2024-10-21T22:57:59.073Z",
+                "status_updated_at": "2025-03-18T18:53:30.549Z",
+                "initially_assigned_at": "2024-04-20T11:23:13.200Z",
+                "assigned_at": "2024-08-16T09:43:51.184Z",
+                "solved_at": "2024-09-24T20:48:51.150Z",
+                "latest_comment_added_at": "2024-09-06T16:05:56.911Z",
+                "reply_time_in_minutes": {
+                    "calendar": 65,
+                    "business": 60
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 21,
+                    "business": 86
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 2,
+                    "business": 26
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 15,
+                    "business": 38
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 43,
+                    "business": 13
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 65,
+                    "business": 83
+                },
+                "custom_status_updated_at": "2024-09-19T14:26:26.835Z"
+            },
+            {
+                "url": "https://bert.net",
+                "id": 27,
+                "ticket_id": 140,
+                "created_at": "2025-03-13T03:11:30.309Z",
+                "updated_at": "2025-03-11T17:00:37.022Z",
+                "group_stations": 13,
+                "assignee_stations": 12,
+                "reopens": 29,
+                "replies": 66,
+                "assignee_updated_at": "2024-11-15T16:17:36.377Z",
+                "requester_updated_at": "2024-08-01T13:55:20.425Z",
+                "status_updated_at": "2024-09-19T14:24:32.456Z",
+                "initially_assigned_at": "2025-02-28T21:17:11.305Z",
+                "assigned_at": "2024-07-06T11:17:00.482Z",
+                "solved_at": "2024-04-27T09:11:13.786Z",
+                "latest_comment_added_at": "2025-02-26T18:21:42.089Z",
+                "reply_time_in_minutes": {
+                    "calendar": 84,
+                    "business": 47
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 63,
+                    "business": 64
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 34,
+                    "business": null
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 67,
+                    "business": 96
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 86,
+                    "business": 27
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 26,
+                    "business": 51
+                },
+                "custom_status_updated_at": "2024-09-14T08:59:46.775Z"
+            },
+            {
+                "url": "https://monty.org",
+                "id": 28,
+                "ticket_id": 198,
+                "created_at": "2024-06-03T19:27:48.730Z",
+                "updated_at": "2024-10-09T05:56:36.281Z",
+                "group_stations": 76,
+                "assignee_stations": 75,
+                "reopens": 4,
+                "replies": 2,
+                "assignee_updated_at": "2024-06-22T21:34:55.932Z",
+                "requester_updated_at": "2025-03-13T10:21:03.591Z",
+                "status_updated_at": "2024-07-30T08:50:20.089Z",
+                "initially_assigned_at": "2024-08-09T03:37:55.100Z",
+                "assigned_at": "2024-04-05T19:35:22.867Z",
+                "solved_at": "2024-10-26T05:42:53.228Z",
+                "latest_comment_added_at": "2025-03-17T00:50:20.594Z",
+                "reply_time_in_minutes": {
+                    "calendar": 85,
+                    "business": 89
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 40,
+                    "business": 53
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": null,
+                    "business": 1
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 93,
+                    "business": 68
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 64,
+                    "business": 7
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 63,
+                    "business": null
+                },
+                "custom_status_updated_at": "2025-02-09T10:17:47.886Z"
+            },
+            {
+                "url": "http://frank.com",
+                "id": 29,
+                "ticket_id": 138,
+                "created_at": "2024-07-09T05:51:14.195Z",
+                "updated_at": "2024-08-20T19:22:15.877Z",
+                "group_stations": 49,
+                "assignee_stations": 53,
+                "reopens": 64,
+                "replies": 73,
+                "assignee_updated_at": "2024-10-07T18:19:23.235Z",
+                "requester_updated_at": "2024-09-29T01:46:55.459Z",
+                "status_updated_at": "2024-10-08T07:18:54.638Z",
+                "initially_assigned_at": "2024-10-07T16:01:25.240Z",
+                "assigned_at": "2024-05-03T17:29:57.257Z",
+                "solved_at": "2024-07-07T13:19:39.266Z",
+                "latest_comment_added_at": "2024-09-19T00:21:16.485Z",
+                "reply_time_in_minutes": {
+                    "calendar": 26,
+                    "business": null
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 86,
+                    "business": 81
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 22,
+                    "business": 4
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 97,
+                    "business": 68
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 4,
+                    "business": 32
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 87,
+                    "business": 13
+                },
+                "custom_status_updated_at": "2025-02-03T09:01:44.331Z"
+            },
+            {
+                "url": "http://jaida.org",
+                "id": 30,
+                "ticket_id": 188,
+                "created_at": "2024-12-09T07:49:44.635Z",
+                "updated_at": "2025-01-30T05:29:38.691Z",
+                "group_stations": 43,
+                "assignee_stations": 53,
+                "reopens": 63,
+                "replies": 0,
+                "assignee_updated_at": "2024-05-09T00:21:34.991Z",
+                "requester_updated_at": "2024-05-24T17:34:59.505Z",
+                "status_updated_at": "2024-07-28T12:24:05.049Z",
+                "initially_assigned_at": "2024-12-09T00:01:25.668Z",
+                "assigned_at": "2024-08-19T06:26:12.980Z",
+                "solved_at": "2024-07-01T11:04:55.095Z",
+                "latest_comment_added_at": "2025-02-10T17:09:20.938Z",
+                "reply_time_in_minutes": {
+                    "calendar": 79,
+                    "business": 39
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 79,
+                    "business": null
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": null,
+                    "business": 34
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 94,
+                    "business": 73
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 54,
+                    "business": 47
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 50,
+                    "business": 13
+                },
+                "custom_status_updated_at": "2024-04-16T13:47:30.335Z"
+            },
+            {
+                "url": "http://demario.info",
+                "id": 31,
+                "ticket_id": 141,
+                "created_at": "2025-01-30T09:00:17.407Z",
+                "updated_at": "2024-09-04T23:31:27.700Z",
+                "group_stations": 56,
+                "assignee_stations": 57,
+                "reopens": 22,
+                "replies": 58,
+                "assignee_updated_at": "2025-03-19T15:36:06.114Z",
+                "requester_updated_at": "2024-08-24T17:38:08.217Z",
+                "status_updated_at": "2025-02-03T13:59:20.447Z",
+                "initially_assigned_at": "2024-11-29T07:39:33.029Z",
+                "assigned_at": "2024-06-16T09:03:58.601Z",
+                "solved_at": "2024-05-09T23:30:03.126Z",
+                "latest_comment_added_at": "2025-03-20T15:35:20.566Z",
+                "reply_time_in_minutes": {
+                    "calendar": 33,
+                    "business": 52
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 34,
+                    "business": 50
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 11,
+                    "business": 26
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": null,
+                    "business": null
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 91,
+                    "business": 3
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": null,
+                    "business": 4
+                },
+                "custom_status_updated_at": "2025-01-30T21:43:56.225Z"
+            },
+            {
+                "url": "http://ladarius.net",
+                "id": 32,
+                "ticket_id": 165,
+                "created_at": "2024-07-06T18:40:28.381Z",
+                "updated_at": "2025-03-12T04:14:49.356Z",
+                "group_stations": 73,
+                "assignee_stations": 8,
+                "reopens": 9,
+                "replies": 94,
+                "assignee_updated_at": "2024-05-19T02:48:33.911Z",
+                "requester_updated_at": "2024-04-25T17:18:02.391Z",
+                "status_updated_at": "2024-12-04T07:00:54.131Z",
+                "initially_assigned_at": "2024-11-28T06:51:35.251Z",
+                "assigned_at": "2025-03-06T09:33:42.280Z",
+                "solved_at": "2024-09-16T20:55:23.134Z",
+                "latest_comment_added_at": "2024-04-20T08:51:08.236Z",
+                "reply_time_in_minutes": {
+                    "calendar": 37,
+                    "business": 6
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 47,
+                    "business": 1
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 99,
+                    "business": 23
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 36,
+                    "business": 58
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 68,
+                    "business": 39
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 71,
+                    "business": 70
+                },
+                "custom_status_updated_at": "2025-02-04T08:30:45.887Z"
+            },
+            {
+                "url": "http://vivien.com",
+                "id": 33,
+                "ticket_id": 190,
+                "created_at": "2024-05-18T09:02:26.550Z",
+                "updated_at": "2024-07-29T06:10:57.963Z",
+                "group_stations": 10,
+                "assignee_stations": 15,
+                "reopens": 34,
+                "replies": 73,
+                "assignee_updated_at": "2024-07-20T12:26:35.310Z",
+                "requester_updated_at": "2024-08-05T10:02:47.523Z",
+                "status_updated_at": "2024-11-19T04:03:20.858Z",
+                "initially_assigned_at": "2024-04-30T19:18:00.635Z",
+                "assigned_at": "2024-08-03T14:14:34.670Z",
+                "solved_at": "2024-06-14T14:38:31.793Z",
+                "latest_comment_added_at": "2024-04-29T05:44:10.212Z",
+                "reply_time_in_minutes": {
+                    "calendar": 31,
+                    "business": null
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": null,
+                    "business": null
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 3,
+                    "business": 75
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 47,
+                    "business": 68
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 17,
+                    "business": 25
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 93,
+                    "business": 14
+                },
+                "custom_status_updated_at": "2025-01-17T04:31:39.175Z"
+            },
+            {
+                "url": "http://cristobal.info",
+                "id": 34,
+                "ticket_id": 142,
+                "created_at": "2024-06-15T00:56:10.699Z",
+                "updated_at": "2024-09-23T00:44:43.080Z",
+                "group_stations": 8,
+                "assignee_stations": 83,
+                "reopens": 94,
+                "replies": 33,
+                "assignee_updated_at": "2024-05-08T07:57:19.669Z",
+                "requester_updated_at": "2024-12-03T16:04:56.624Z",
+                "status_updated_at": "2024-12-27T07:57:10.914Z",
+                "initially_assigned_at": "2024-11-12T21:07:13.624Z",
+                "assigned_at": "2024-06-21T01:46:16.932Z",
+                "solved_at": "2024-09-21T16:02:48.903Z",
+                "latest_comment_added_at": "2025-02-08T01:06:53.408Z",
+                "reply_time_in_minutes": {
+                    "calendar": 51,
+                    "business": null
+                },
+                "first_resolution_time_in_minutes": {
+                    "calendar": 97,
+                    "business": 36
+                },
+                "full_resolution_time_in_minutes": {
+                    "calendar": 69,
+                    "business": 0
+                },
+                "agent_wait_time_in_minutes": {
+                    "calendar": 42,
+                    "business": 33
+                },
+                "requester_wait_time_in_minutes": {
+                    "calendar": 49,
+                    "business": 96
+                },
+                "on_hold_time_in_minutes": {
+                    "calendar": 11,
+                    "business": 62
+                },
+                "custom_status_updated_at": "2024-05-16T09:55:52.535Z"
+            }
+        ],
+        "next_page": "http://bridie.name",
+        "previous_page": "http://rico.org",
+        "count": 35
+    }
+]
